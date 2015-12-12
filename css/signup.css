@@ -1,0 +1,70 @@
+#form{
+  margin-top:80px;
+  
+margin-left:390px;
+  
+background-color:#0099ff;
+  
+border:2px solid black;
+  
+border-radius:45px;
+  
+width:750px;
+}
+
+#form table{
+  
+padding:24px;
+}
+
+
+#form table td{
+  
+font-size:12px;
+ 
+ padding:4px;
+}
+
+#form table td 
+.input{
+  height:30px;
+  
+width:235px;
+  
+font-size:12px;
+  
+border-radius:10px;
+}
+
+#form table td 
+.select{
+  height:24px;
+  
+font-size:10px;
+}
+
+#form table td 
+#alamat{
+ 
+ resize:none;
+  
+height:75px;
+  
+width:350px;
+  
+font-size:12px;
+  
+border-radius:5px;
+}
+
+#form table td 
+.submit{
+  
+height:24px;
+  
+width:120px;
+  
+font-size:12px;
+  
+border-radius:15px;
+}

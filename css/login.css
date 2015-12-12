@@ -1,0 +1,50 @@
+#login{
+
+  
+margin:10px 300px 0 2px;
+  
+border:2px solid black;
+  
+background-color:#ff5599;
+  
+width:260PX;
+
+}
+
+
+#login table tr td{
+  
+font-size:12px;
+  
+padding:6px;
+  
+margin-left:1px;
+}
+
+
+#login table tr td 
+.input{
+  
+height:22px;
+  
+width:150px;
+  
+font-size:12px;
+}
+
+
+#login table tr td 
+#submit{
+  
+font-size:12px;
+  
+float:right;
+  
+margin-right:16px;
+}
+a{
+  
+text-decoration:none;
+  
+font-size:14px;
+}
